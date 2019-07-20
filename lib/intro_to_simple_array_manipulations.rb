@@ -26,4 +26,5 @@ more_favs = ["sports cars", "flatiron school"]
 more_favs.concat 
 end
 list_of_programming_languages = ["Ruby", "JavaScript", "Java", "C#", "Objective C", "C++", "PHP"]
-
+another_language = "Python"
+another_language.options_from_collection_for_select
