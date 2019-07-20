@@ -30,3 +30,5 @@ another_language = "Python"
 another_language.insert
 end
 haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
+haircuts.uniq
+end
