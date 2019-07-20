@@ -35,3 +35,4 @@ end
 instruments = ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
 instruments.flatten
 end
+
