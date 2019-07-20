@@ -13,3 +13,4 @@ end
 continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
 continents.pop
 end
+dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
