@@ -38,3 +38,4 @@ end
 instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
 instructors.delete(3)
 end
+
