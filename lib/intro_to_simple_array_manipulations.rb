@@ -19,3 +19,5 @@ end
 my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
 my_favorite_cities.shift
 end
+my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
+my_favorite_cities.shift(2)
