@@ -23,4 +23,5 @@ my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaboron
 my_favorite_cities.shift(2)
 my_favorite_things = ["raindrops on roses", "whiskers on kittens"]
 more_favs = ["sports cars", "flatiron school"]
-
+more_favs.concat 
+end
